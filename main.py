@@ -1,4 +1,4 @@
-# This is the main script for the Descartes Underwriting test
+# This is the main script for the DC Underwriting test
 # Basic steps are included:
 # (1)Load the data from 'train_auto.csv'
 # (2)Clean data, with 'NumConverter.py'(self defined), convert categorical and currency data to numericals
